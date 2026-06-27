@@ -7,9 +7,6 @@
   <a href="mailto:surajshivabla1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://drive.google.com/file/d/18tOYE2GRNUTd0rbA0_LS-cmcGjI3XzLE/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
 </p>
 
 ---
@@ -88,15 +85,4 @@ I am a results-driven **Full Stack Developer & AI Engineer** with over 2 years o
 *   🎓 **10th Board (SSLC)** (**86.08%**)
     *Oxford English Medium High School | 2017*
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj-5201&show_icons=true&theme=radical&count_private=true" alt="Suraj's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-5201&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suraj-5201&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
